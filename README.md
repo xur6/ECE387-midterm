@@ -5,3 +5,4 @@
 # code (AA 21) import speech command to speech module
 
 # issue: only 5 command can stay in one group, so I didn't do LED turn off action in my project
+# video address https://www.youtube.com/watch?v=3e8XHRIs8XM
